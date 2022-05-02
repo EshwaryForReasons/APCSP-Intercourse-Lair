@@ -1,0 +1,9 @@
+Uanable to load image background_texture.png. SDL_image Error: Couldn't open background_texture.png
+Failed to load the player texture.
+Uanable to load image player_texture.png. SDL_image Error: Couldn't open player_texture.png
+Failed to load the player texture.
+Uanable to load image projectile_bullet_texture.png. SDL_image Error: Couldn't open projectile_bullet_texture.png
+Failed to load the projectile texture.
+Uanable to load image brick_texture.png. SDL_image Error: Couldn't open brick_texture.png
+Failed to load the brick texture.Couldn't open brick_texture.png
+Failed to load media.
